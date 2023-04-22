@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+
+# production
+public/build
+
+# storybook build
+storybook-static
+
+# misc
+.DS_Store
+.idea
+*.iml
+.env
+npm-debug.log*
+yarn-error.log
+.vscode/settings.json
+
+_build_test
